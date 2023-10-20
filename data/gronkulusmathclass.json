@@ -6,13 +6,12 @@
     "verifier": "wSwipe",
     "verification": "https://youtu.be/yMjtfta3aZ8?si=TRXlkqxY04SHjF2p",
     "percentToQualify": 64,
-    "records": 
+    "records": 1
         }
-[
+
       {
           "user": "Ferret90",
           "link": "https://youtu.be/1WcsEkW8lac?si=A21jE7nWPYfsHf99",
           "percent": 100,
           "Hz": "240"
       }
-]
