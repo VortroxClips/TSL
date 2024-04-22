@@ -6,5 +6,5 @@
     "verifier": "wSwipe",
     "verification": "https://youtu.be/yMjtfta3aZ8?si=TRXlkqxY04SHjF2p",
     "percentToQualify": 64,
-    "records": "100% Ferret90"
+    "records": ["100% Ferret90"]
 }
