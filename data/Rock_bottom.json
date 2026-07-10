@@ -1,1 +1,10 @@
 {
+    "id": 1,
+    "name": "Rock Bottom",
+    "author": "VortroxClips",
+    "creators": [vortroxclips, qfourseven],
+    "verifier": "Vortroxclips",
+    "verification": "Link",
+    "percentToQualify": 100,
+    "records": []
+}
